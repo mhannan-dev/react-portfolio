@@ -7,6 +7,7 @@ import Nav from './components/nav/Nav'
 import Portfolio from './components/portfolio/Portfolio';
 import Service from './components/service/Service';
 import Testimonial from './components/testimonial/Testimonial';
+
 function App() {
   return (
     <>
